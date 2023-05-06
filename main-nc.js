@@ -11,6 +11,7 @@ class MyHeader extends HTMLElement {
 <ul id="nav2">
 <li><a href="/">Home</a>
     <ul>
+    <li><a href="https://goesdeep.win/">goesdeep.win</a></li>
       <li><a href="/">Cancer</a></li>
       <li><a href="Site-Map.html">Site-Map</a></li>
       <li><a href="VAXXED.html">AUTISM</a></li>
